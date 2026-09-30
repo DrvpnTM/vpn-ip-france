@@ -1,18 +1,17 @@
-# VPN IP France — Dr VPN
+# VPN IP France — Fast, Secure VPN for France
 
-**VPN IP France** is a fast, secure and free VPN for Android. Get a **France IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP France** is a free, open-source, ad-free VPN app for Android, built for users in France. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP France (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_fr_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-france/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- France IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN France, France VPN, VPN IP France, France IP address, free VPN France, buy VPN France, fast VPN France, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN France, free VPN France, fast VPN, VPN IP France, Android VPN, unblock websites France.</sub>
